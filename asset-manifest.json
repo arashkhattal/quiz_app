@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quiz_app/static/css/main.a435cf10.chunk.css",
+    "main.js": "/quiz_app/static/js/main.c9264684.chunk.js",
+    "main.js.map": "/quiz_app/static/js/main.c9264684.chunk.js.map",
+    "runtime-main.js": "/quiz_app/static/js/runtime-main.0d569324.js",
+    "runtime-main.js.map": "/quiz_app/static/js/runtime-main.0d569324.js.map",
+    "static/js/2.9858ffc9.chunk.js": "/quiz_app/static/js/2.9858ffc9.chunk.js",
+    "static/js/2.9858ffc9.chunk.js.map": "/quiz_app/static/js/2.9858ffc9.chunk.js.map",
+    "static/js/3.1c038412.chunk.js": "/quiz_app/static/js/3.1c038412.chunk.js",
+    "static/js/3.1c038412.chunk.js.map": "/quiz_app/static/js/3.1c038412.chunk.js.map",
+    "index.html": "/quiz_app/index.html",
+    "static/css/main.a435cf10.chunk.css.map": "/quiz_app/static/css/main.a435cf10.chunk.css.map",
+    "static/js/2.9858ffc9.chunk.js.LICENSE.txt": "/quiz_app/static/js/2.9858ffc9.chunk.js.LICENSE.txt",
+    "static/media/buzzer-or-wrong-answer-20582.ee37d6ea.mp3": "/quiz_app/static/media/buzzer-or-wrong-answer-20582.ee37d6ea.mp3",
+    "static/media/trophy.16e6df06.png": "/quiz_app/static/media/trophy.16e6df06.png",
+    "static/media/welcome.5c587312.mp3": "/quiz_app/static/media/welcome.5c587312.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d569324.js",
+    "static/js/2.9858ffc9.chunk.js",
+    "static/css/main.a435cf10.chunk.css",
+    "static/js/main.c9264684.chunk.js"
+  ]
+}
